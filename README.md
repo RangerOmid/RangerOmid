@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RangerOmid
+- 👀 I’m interested in Python programming and AI
+- 🌱 I’m currently learning to Creat AI-based programs
+- 💞️ I’m looking to collaborate on Programming and AI projects
+- 📫 How to reach me : Ranger.omid02@gmail.com
